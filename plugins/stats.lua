@@ -148,7 +148,7 @@ return {
     "^([Ss]tats)$",
     "^([Ss]tatslist)$",
     "^([Ss]tats) (group) (%d+)",
-    "^([Ss]tats) (megasatan)",-- Put everything you like :)
+    "^([Ss]tats) (melowdi)",-- Put everything you like :)
 		"^([Mm]egasatan)"-- Put everything you like :)
     }, 
   run = run
